@@ -1,10 +1,12 @@
 #Requires AHK V2
 
 // 
+
 Automatic + Unlimited Underbarrel Grenade Launcher for MW2 using Autohotkey. Amount of Grenades you can fire is tied to the size of your magazine. 
 Larger magazines mean more grenades. Works best on most assault rifles, partially works on the few battle rifles with underbarrel GLs. 
 
 **MUST EQUIP: Stun/Flash/Smoke and Throwing Knife**
+
 //
 
 The raw code is listed. 
