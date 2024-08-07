@@ -1,4 +1,5 @@
-﻿#SingleInstance, Force	
+#Requires AutoHotkey v1.1.37.02
+#SingleInstance, Force	
 SendMode Input
 SetBatchLines -1
 SetKeyDelay -1
@@ -7,8 +8,8 @@ XButton1::
 while, getkeystate("XButton1", "p")
 {
     Sleep, 5
-	Send, {v Down}
-	Sleep, 13
+    Send, {v Down}
+    Sleep, 13
     Click, Left, , Down
     Sleep, 14
     Send, {q Down}
