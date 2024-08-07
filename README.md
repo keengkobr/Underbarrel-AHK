@@ -1,4 +1,4 @@
-#Requires AHK V2
+#Requires AHK V2 and AutoHotkey v1.1.37.02 (Installed as additional)
 
 // 
 
