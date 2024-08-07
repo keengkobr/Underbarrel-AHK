@@ -1,4 +1,4 @@
-#Requires AHK V2 and AutoHotkey v1.1.37.02 (Installed as additional)
+#Requires AutoHotKey V2 [(Source Page)][https://www.autohotkey.com/v2/] and AutoHotkey v1.1.37.02 [(Direct Download)](https://www.autohotkey.com/download/1.1/AutoHotkey_1.1.37.02_setup.exe) installed as additional.
 
 // 
 
